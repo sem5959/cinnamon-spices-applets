@@ -1,0 +1,46 @@
+# звук150 @ claudiux Applet POT File.
+# Copyright (C) 2018 Claudiux <claude.clerc@gmail.com>
+# Этот файл распространяется по той же лицензии, что и пакет корицы.
+# ПЕРВЫЙ АВТОР Claudiux <claude.clerc@gmail.com>, 2018.
+#
+#,  нечеткий
+msgstr "" "
+msgstr ""
+« Project-Id-Version : sound150 @ claudiux v1.0.0 \ n "
+« Report-Msgid-Bugs-To : Claudiux <claude.clerc@gmail.com> \ n "
+« POT-Creation-Date : 2018-01-12 15: 47 + 0100 \ n "
+« PO-Revision-Date : YEAR-MO-DA HO: MI + ZONE \ n "
+« Last-Translator : FULL NAME <EMAIL @ ADDRESS> \ n "
+« Language-Team : LANGUAGE <LL@li.org> \ n "
+" MIME-Version : 1.0 \ n "
+" Content-Type : text / plain; charset = UTF-8 \ n "
+« Content-Transfer-Encoding : 8bit \ n »
+" X-Generator : Poedit 1.8.7.1 \ n "
+
+#:  metadata.json: 2
+msgstr  "Апплет, основанный на Cinnamon, для управления звуком (до 150% от номинального объема) и музыкой"
+msgstr  ""
+
+#:  metadata.json: 5
+msgstr  "Звук 150%"
+msgstr  ""
+
+#:  settings-schema.json: 101
+msgstr  "% от номинального объема"
+msgstr  ""
+
+#:  settings-schema.json: 83
+msgstr  "Максимальный уровень громкости"
+msgstr  ""
+
+#:  settings-schema.json: 84
+MSGID  «Вы можете попытаться увеличить громкость звуковой карты до 150% от номинального значения. Используйте с осторожностью. Вы также можете установить значение менее 100%, например , на компьютере ребенка.»
+msgstr  ""
+
+#:  settings-schema.json: 106
+msgstr  "Настроить цвет значка на том"
+msgstr  ""
+
+#:  settings-schema.json: 107
+msgstr  "От 101% до 115%: желтый, с 116% до 130%: оранжевый, выше 130%: красный."
+msgstr  ""
